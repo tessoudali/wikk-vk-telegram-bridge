@@ -4,7 +4,7 @@ chardet==3.0.4
 cryptography==2.9.2
 decorator==4.4.2
 future==0.18.2
-idna==2.9
+idna==3.7
 Pillow==7.1.2
 psutil==5.7.0
 psycopg2==2.8.5
